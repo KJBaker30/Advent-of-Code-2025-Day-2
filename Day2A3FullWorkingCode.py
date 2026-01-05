@@ -39,4 +39,5 @@ print("Part 2:", counter_2)
 
 #P2A1 = 46719601268 (Too high)
 #P2A2 = 46647025515 (Too low)
-#Ans: 46666175279
+# Star 2
+# Ans: 46666175279
